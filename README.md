@@ -1,0 +1,1 @@
+clubstore-dev.netlify.app
