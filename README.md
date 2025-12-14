@@ -2,7 +2,10 @@
 
 Uma landing page moderna e responsiva para a **DevClub Store**, apresentando uma vitrine dinâmica de diferentes produtos tecnológicos (como o Apple Watch Series 10). Desenvolvida com HTML, CSS e JavaScript puro, o projeto destaca a alternância de produtos, design futurista e interatividade fluida.
 
-[Insira aqui a imagem da sua landing page - image_374551.jpg]
+##  Live Demo / Projeto Online
+**Veja o projeto em funcionamento aqui:** [https://clubstore-dev.netlify.app/]
+
+![Detalhe do Layout do Site](telasite.png)
 
 ##  Recursos do Projeto
 
@@ -20,9 +23,6 @@ Este projeto foi construído apenas com tecnologias web padrão, o que o torna l
 * `CSS3`: Para estilização, layout e as animações de transição.
 * `JavaScript (Vanilla JS)`: Para o controle do carrossel que gerencia a troca dos diferentes produtos e suas informações associadas.
 
-
-
-
 ##  O que eu aprendi
 
 Este projeto foi uma ótima oportunidade para aprofundar conhecimentos em:
@@ -30,10 +30,6 @@ Este projeto foi uma ótima oportunidade para aprofundar conhecimentos em:
 * **Manipulação de DOM e Lógica Complexa:** Gerenciamento do carrossel para garantir que, ao trocar o produto, a descrição, o título e a imagem sejam atualizados de forma sincronizada.
 * Criação de carrosséis ou *sliders* dinâmicos usando JavaScript puro.
 * Aplicação de animações e transições suaves com CSS para melhorar a experiência de troca de conteúdo.
-
-##  Licença
-
-Este projeto está licenciado sob a Licença MIT.
 
 ##  Contato
 
