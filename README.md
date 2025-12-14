@@ -36,5 +36,5 @@ Este projeto foi uma ótima oportunidade para aprofundar conhecimentos em:
 Se tiver alguma dúvida, sugestão ou quiser se conectar:
 
 * **kauacomk123:**
-* **LinkedIn:**
+* **LinkedIn: https://www.linkedin.com/in/kau%C3%A3-santana-589083232/**
 * **Email: Kauasantana2707@gmail.com**
